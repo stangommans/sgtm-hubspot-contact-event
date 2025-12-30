@@ -34,3 +34,5 @@ For issues or feature requests, please open an issue on the GitHub repository.
 
 ---
 *Disclaimer: This is a community-developed template and is not officially affiliated with HubSpot.*
+
+<img width="906" height="1482" alt="Screenshot 2025-12-30 094546" src="https://github.com/user-attachments/assets/14ccae33-2356-45ee-b5bf-1254b9102db4" />
