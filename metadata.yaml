@@ -1,6 +1,7 @@
 homepage: "https://github.com/stangommans/sgtm-hubspot-contact-event"
 documentation: "https://github.com/stangommans/sgtm-hubspot-contact-event/blob/main/README.md"
 versions:
-  - sha: "0433288699746002cb1b7bf06c42f1e933a458e7"
+  - sha: "9481990f4d719128c404eb420121eabadd133b5b"
     changeNotes: "Initial release: Sequential Contact Upsert and Custom Behavioral Event tracking."
+
 
